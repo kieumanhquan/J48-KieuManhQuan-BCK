@@ -1,0 +1,22 @@
+#Ma ; Ten mon hoc; he so diem
+001;Tin Dai Cuong I;1.0
+002;Tin Dai Cuong II;2.0
+003;Toan cao cap I;1.0
+004;Toan Cao Cap II;3.0
+005;GDQP;3.0
+006;GDTC;2.5
+007;Triet Mac;3.0
+008;Tu tuong HCM;2.0
+009;Cau truc may tinh;3.0
+010;Cau truc DL;2.5
+011;He thong thong Tin;3.0
+012;Ky thuat phan mem;2.5
+013;Vận trù học;1.0
+014;Quy hoạch phi tuyến;1.0
+015;Mô hình toán kinh tế;2.0
+016;Quy hoạch tuyến tính;3.0
+017;Thuật toán tối ưu;1.0
+018;Quản trị doanh nghiệp;2.5
+019;Lý thuyết trò chơi;2.5
+020;Kinh tế lượng;3.0
+021;Bất đẳng thức biến phân;3.0
